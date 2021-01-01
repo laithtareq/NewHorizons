@@ -9,4 +9,8 @@ D = {"Name":"Laith","Phone":124,"Email":"Laith96","Age":25}
 #    print(k[0])
 T = ((1,2),(7,8),(4,5))
 for i,j in T:
-    print(j)
+    
+    if i == 7:
+        break
+    print(i)
+# break,continue
