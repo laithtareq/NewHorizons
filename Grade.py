@@ -1,0 +1,1 @@
+# def a function that input student marks (unknown count) and then calculat avg,sum,grade
