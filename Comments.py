@@ -2,3 +2,4 @@
 Name = ''' One Line
 another line
 '''
+class Math

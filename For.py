@@ -1,3 +1,6 @@
+import Class 
+import Comments as C
+
 #for i in range(5,0,-1):
 #    print(i)
 X = [1,2,4,5]
