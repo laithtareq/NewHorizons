@@ -1,96 +1,47 @@
-Name : Laith Tareq
+Data = {"Name": "Ali" , "Phone":6262,"Email":[bb,b,b,b],"Count":6} 
+
+Name : Ali Tareq
+Phone : +0054
+Email : Ali@gmail.net
+Name : Ahmad Ali
+Phone : +0054
+Email : laith@gmail.como
+Name : Ali Tareq
+Phone : +0054
+Email : laith@gmail.co
+Name : Ahmad Ali
 Phone : +0054
 Email : laith@gmail.com
 Name : Ali Tareq
 Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
+Email : Ali@gmail.net
+Name : Ahmad Ali
 Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
+Email : laith@gmail.como
+Name : Ali Tareq
 Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
+Email : laith@gmail.co
+Name : Ahmad Ali
 Phone : +0054
 Email : laith@gmail.com
 Name : Ali Tareq
 Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
+Email : Ali@gmail.net
+Name : Ahmad Ali
 Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
+Email : laith@gmail.como
 Name : Ali Tareq
 Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
+Email : laith@gmail.co
+Name : Ahmad Ali
 Phone : +0054
 Email : laith@gmail.com
+Name : Asma Samer
+Phone : +0054
+Email : Asma@gmail.com
+Name : Laith Samer
+Phone : +0054
+Email : Samer@gmail.com
 Name : Laith Tareq
 Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Ali Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Ali Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Ali Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Ali Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Ali Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Samer Tareq
-Phone : +0054
-Email : laith@gmail.com
-Name : Laith Tareq
-Phone : +0054
-Email : laith@gmail.com
+Email : Samer@gmail.com
