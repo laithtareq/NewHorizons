@@ -1,6 +1,7 @@
 import sqlite3
-db = sqlite3.connect("Data.db")
-
+import os
+db = sqlite3.connect("File/Data.db")
+db2 = sqlite3.connect("Data2.db")
 db.execute("delete from Student")
 db.execute("delete from Mat_tbl")
 
@@ -16,5 +17,9 @@ Data = db.execute("select * from Student")
 for data in Data:
     print(data)
 db.execute("create view St_View as select Name,ID from Student")
+Data = [("Ali",1),("Ahmad",5)]
+db.executemany("insert into Student(Name,ID) values (?,?)",Data)
+Data1 = list(db.execute("select * from Student"))
+db2.executemany("insert into Student(Name,ID) values (?,?)",Data1)
 
 

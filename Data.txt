@@ -1,5 +1,3 @@
-Data = {"Name": "Ali" , "Phone":6262,"Email":[bb,b,b,b],"Count":6} 
-
 Name : Ali Tareq
 Phone : +0054
 Email : Ali@gmail.net
